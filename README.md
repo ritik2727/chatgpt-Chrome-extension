@@ -1,4 +1,5 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+video link (https://drive.google.com/file/d/11nRS3rrE8NsuMavAb0wLhnsNKggN5D4Q/view?usp=sharing) 
+project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 # AI Assistant Chrome Extension
 

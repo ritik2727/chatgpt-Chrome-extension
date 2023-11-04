@@ -82,9 +82,9 @@ function IndexPopup({ onClose }) {
 
       setResponse(generatedText)
 
-      // setResponse(`sucees : ${data.response}`);
+
     } catch (error) {
-      console.error("Error during API request:", error)
+      console.error("Error during API request: 500", error)
       setResponse(`Error during API request ${error}`)
     }
   }
